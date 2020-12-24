@@ -24,12 +24,12 @@ O layout da aplicação está disponível no Figma:
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-### Web
+### Web - Antes e Depois
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="images/umc-login-antes.PNG" width="400px">
+  <img src="images/umc-login-antes.PNG">
 
-  <img src="images/umc-login-depois.png" width="400px">
+  <img src="images/umc-login-depois.png" >
 </p>
 
 ---
