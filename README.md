@@ -29,7 +29,7 @@ O layout da aplicação está disponível no Figma:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="images/umc-login-antes.png" width="400px">
 
-  <img src="umc-login-depois.png" width="400px">
+  <img src="images/umc-login-depois.png" width="400px">
 </p>
 
 ---
