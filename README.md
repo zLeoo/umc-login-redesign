@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="images/umc-login-depois.png" />
 </h1>
 
 <h4 align="center"> 
