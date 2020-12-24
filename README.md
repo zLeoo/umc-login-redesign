@@ -5,7 +5,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> •  
- <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
 </p>
 <h1 align="center">
